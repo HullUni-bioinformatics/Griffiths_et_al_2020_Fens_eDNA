@@ -23,7 +23,7 @@ Docker is compatible with all major operating systems, but see the [Docker docum
 sudo apt-get install docker.io
 ```
 
-Once Docker is installed, you can enter the environment by typing, e.g.:
+Once Docker is installed, you can enter the environment by typing for example:
 ```
 sudo docker run -i -t --net=host --name metaBEAT -v $(pwd):/home/working chrishah/metabeat /bin/bash
 ```
