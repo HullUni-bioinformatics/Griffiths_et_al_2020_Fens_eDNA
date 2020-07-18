@@ -6,6 +6,19 @@ Permanently archived at:
 
 ## Contents
 
+NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Sample_accessions.tsv)
+
+Curated reference databases used in analyses (GenBank/fasta format) [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/Reference_DBs)
+
+Notebook to run metaBEAT pipeline [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Jupyter_notebooks/Fens_2017_metaBEAT.ipynb)
+
+Raw output data [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Raw_Data/Eel2017_12S-trim30-min90-crop110-mergeforwonly-filt100-dev0.2_nonchimera_c1cov3_blast0.98_fish-by-taxonomy-readcounts.blast.tsv)
+
+R scripts with associated .CSV files used to analyse metaBEAT output and produce figures [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/R_scripts)
+
+Supplementary info [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/Data/Supp_Info)
+
+
 ## Instructions to set up dependencies for data processing and analyses
 To facilitate full reproducibility of our analyses, we provide Jupyter notebooks illustrating our workflow and all necessary associated data in this repository.
 
@@ -18,7 +31,7 @@ In order to retrieve scripts and associated data (reference sequences, sample me
 git clone --recursive https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens.git
 ```
 In order to make use of our self contained analysis environment, you will have to install [Docker](https://www.docker.com/) on your computer. 
-Docker is compatible with all major operating systems, but see the [Docker documenation](https://docs.docker.com/) for details. On Ubuntu, installing Docker should be as easy as:
+Docker is compatible with all major operating systems, but see the [Docker documentation](https://docs.docker.com/) for details. On Ubuntu, installing Docker should be as easy as:
 ```
 sudo apt-get install docker.io
 ```
@@ -32,12 +45,13 @@ This will download the metaBEAT image (if not yet present on your computer) and 
 
 ## Data processing workflow as Jupyter notebooks
 Raw illumina data has been deposited on the NCBI SRA:
-- BioProject: 
-- BioSample accessions: 
-- SRA accessions: 
+- Study: SRP272137
+- BioProject: PRJNA646357
+- BioSample accessions: SAMN15541168 - SAMN15541275
+- SRA accessions: SRR12232432 - SRR12232539 
 
-The sample specific accessions can be found [here](https://github.com/HullUni-bioinformatics). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/HullUni-bioinformatics).
+The sample specific accessions can be found [here](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Jupyter_notebooks/How_to_download_from_SRA.ipynb).
 
-With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebook](https://github.com/HullUni-bioinformatics).
+With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebook](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Jupyter_notebooks/Fens_2017_metaBEAT.ipynb).
 
-The workflow illustrated in the notebooks assumes that the raw Illumina data is present in a directory ```raw_reads``` at the base of the repository structure and that the files are named according to the following convention: 'sampleID_marker', followed by '_R1' or '_R2' to identify the forward/reverse read file respectively. SampleID must correspond to the first column in the file ```Sample_accessions.tsv``` [here](https://github.com/HullUni-bioinformatics).
+The workflow illustrated in the notebooks assumes that the raw Illumina data is present in a directory ```raw_reads``` at the base of the repository structure and that the files are named according to the following convention: 'sampleID_marker', followed by '_R1' or '_R2' to identify the forward/reverse read file respectively. SampleID must correspond to the first column in the file ```Sample_accessions.tsv``` [here](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Sample_accessions.tsv).
