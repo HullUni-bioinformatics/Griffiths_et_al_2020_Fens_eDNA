@@ -1,0 +1,59 @@
+LOCUS       NC_027944                943 bp    DNA     linear   VRT 14-OCT-2015
+DEFINITION  Maylandia zebra mitochondrion, complete genome.
+ACCESSION   NC_027944 REGION: 70..1012
+VERSION     NC_027944.1
+DBLINK      BioProject: PRJNA297985
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Maylandia zebra (zebra mbuna)
+  ORGANISM  Maylandia zebra
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Haplochromini;
+            Maylandia; Maylandia zebra complex.
+REFERENCE   1  (bases 1 to 943)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 943)
+  AUTHORS   Dang,X., Xia,Y. and Xu,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUN-2015) BGI Education Center, University of Chinese
+            Academy of Sciences, Building 11, Beishan Industrial Zone, Yantian
+            District, Shenzhen, Guangdong 518083, China
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to KT166981.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..943
+                     /organism="Maylandia zebra"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:106582"
+     gene            1..943
+                     /locus_tag="APK84_gr02"
+                     /db_xref="GeneID:26037630"
+     rRNA            1..943
+                     /locus_tag="APK84_gr02"
+                     /product="12S ribosomal RNA"
+                     /db_xref="GeneID:26037630"
+ORIGIN      
+        1 caaaagcttg gtcctgactt tactgtcaac tttggctaaa cttacacatg caagtctccg
+       61 cccccctgtg agaatgccca cagttttctg cccgagaaca aggagctggt atcaggcaca
+      121 ctttccgcag cccatgacac cttgcttagc cacaccctca agggaactca gcagtgatag
+      181 acattaagcc ataagtgtaa acttgactta gttaaagcca agagggccgg taaaactcgt
+      241 gccagccacc gcggttatac gagaggctca agttgataga catcggcgta aagagtggtt
+      301 aggaagtttt taaactaaag ccgaacgccc tcagaactgt tatacgtacc cgagagcaag
+      361 aagccccact acgaaagtgg ctttatatcc ccgaccccac gaaagctgcg aaacaaactg
+      421 ggattagata ccccactatg cccagcccta aaccttgata gccccctaca cccactatcc
+      481 gcccgggtac tacgagcact agcttaaaac ccaaaggact tggcggtgct ttagatccac
+      541 ctagaggagc ctgttctaga accgataacc cccgttaaac ctcaccccct cttgttcttt
+      601 ccgtctatat accgccgtcg tcagcttacc ctatgaagga accacagtaa gcaaaactag
+      661 tacaactcaa aacgccaggt cgaggtgtag catatgaggg gggaagaaat gggctacatt
+      721 ccctgccaca gggaatacga acaatgtaat gaaatataca ttagaaggag gatttagcag
+      781 taagcagaaa atagagcgtt ccgctgaaat tggccctgaa gcgcgcacac accgcccgtc
+      841 actctcccca agccaacaac atcctataaa taatacattt taccggtaaa ggggaggcaa
+      901 gtcgtaacat ggtaagtgta ccggaaggtg tacttggaaa aat
+//
+
