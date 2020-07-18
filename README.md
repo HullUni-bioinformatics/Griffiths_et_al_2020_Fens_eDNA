@@ -6,17 +6,17 @@ Permanently archived at:
 
 ## Contents
 
-NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Sample_accessions.tsv)
+- NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Sample_accessions.tsv)
 
-Curated reference databases used in analyses (GenBank/fasta format) [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/Reference_DBs)
+- Curated reference databases used in analyses (GenBank/fasta format) [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/Reference_DBs)
 
-Notebook to run metaBEAT pipeline [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Jupyter_notebooks/Fens_2017_metaBEAT.ipynb)
+- Notebook to run metaBEAT pipeline [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Jupyter_notebooks/Fens_2017_metaBEAT.ipynb)
 
-Raw output data [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Raw_Data/Eel2017_12S-trim30-min90-crop110-mergeforwonly-filt100-dev0.2_nonchimera_c1cov3_blast0.98_fish-by-taxonomy-readcounts.blast.tsv)
+- Raw output data [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Raw_Data/Eel2017_12S-trim30-min90-crop110-mergeforwonly-filt100-dev0.2_nonchimera_c1cov3_blast0.98_fish-by-taxonomy-readcounts.blast.tsv)
 
-R scripts with associated .CSV files used to analyse metaBEAT output and produce figures [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/R_scripts)
+- R scripts with associated .CSV files used to analyse metaBEAT output and produce figures [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/R_scripts)
 
-Supplementary info [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/Data/Supp_Info)
+- Supplementary info [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/Data/Supp_Info)
 
 
 ## Instructions to set up dependencies for data processing and analyses
