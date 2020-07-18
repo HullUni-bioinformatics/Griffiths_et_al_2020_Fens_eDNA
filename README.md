@@ -1,6 +1,6 @@
 # Griffiths *et al.* (2020)
 Data processing workflow and supplementary info for:
-Griffiths *et al.* (2020) - **Environmental DNA metabarcoding provides enhanced detection of the European eel Anguilla anguilla and fish community structure in pumped river catchments**
+Griffiths *et al.* (2020) - **Environmental DNA metabarcoding provides enhanced detection of the European eel *Anguilla anguilla* and fish community structure in pumped river catchments**
 
 Permanently archived at:
 
@@ -9,7 +9,7 @@ Permanently archived at:
 ## Instructions to set up dependencies for data processing and analyses
 To facilitate full reproducibility of our analyses, we provide Jupyter notebooks illustrating our workflow and all necessary associated data in this repository.
 
-Raw llumina outputs were processed (from raw reads to taxonomic assignment) using the [metaBEAT](https://github.com/HullUni-bioinformatics/metaBEAT) pipeline. The pipeline relies on a range of open bioinformatics tools, which we have wrapped up in a self-contained docker image that includes all necessary dependencies [here](https://hub.docker.com/r/chrishah/metabeat/).
+llumina outputs were processed (from raw reads to taxonomic assignment) using the [metaBEAT](https://github.com/HullUni-bioinformatics/metaBEAT) pipeline. The pipeline relies on a range of open bioinformatics tools, which we have wrapped up in a self-contained docker image that includes all necessary dependencies [here](https://hub.docker.com/r/chrishah/metabeat/).
 
 ## Setting up the environment
 In order to retrieve scripts and associated data (reference sequences, sample metadata etc.), start by cloning this repository to your current directory:
