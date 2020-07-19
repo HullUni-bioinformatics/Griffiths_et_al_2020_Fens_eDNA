@@ -6,17 +6,17 @@ Permanently archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.395
 
 ## Contents
 
-- NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Sample_accessions.tsv)
+- NCBI Sequence Read Archive (SRA) accession numbers for raw Illumina data [(here)](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/blob/master/Data/Sample_accessions.tsv)
 
-- Curated reference databases used in analyses (GenBank/fasta format) [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/Reference_DBs)
+- Curated reference databases used in analyses (GenBank/fasta format) [(here)](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/tree/master/Reference_DBs)
 
-- Notebook to run metaBEAT pipeline [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Jupyter_notebooks/Fens_2017_metaBEAT.ipynb)
+- Notebook to run metaBEAT pipeline [(here)](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/blob/master/Jupyter_notebooks/Fens_2017_metaBEAT.ipynb)
 
-- Raw output data [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Raw_Data)
+- Raw output data [(here)](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/tree/master/Data/Raw_Data)
 
-- R scripts with associated .csv files used to analyse metaBEAT output and produce figures [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/R_scripts)
+- R scripts with associated .csv files used to analyse metaBEAT output and produce figures [(here)](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/tree/master/R_scripts)
 
-- Supplementary info [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/Data/Supp_Info)
+- Supplementary info [(here)](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/tree/master/Data/Supp_Info)
 
 
 ## Instructions to set up dependencies for data processing and analyses
@@ -50,8 +50,8 @@ Raw illumina data has been deposited on the NCBI SRA:
 - BioSample accessions: SAMN15541168 - SAMN15541275
 - SRA accessions: SRR12232432 - SRR12232539 
 
-The sample specific accessions can be found [here](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Jupyter_notebooks/How_to_download_from_SRA.ipynb).
+The sample specific accessions can be found [here](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/blob/master/Data/Sample_accessions.tsv). Before following the workflow for data processing, you'll need to download the raw reads from the SRA. To download the raw read data, you can follow the steps in this [Jupyter notebook](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/blob/master/Jupyter_notebooks/How_to_download_from_SRA.ipynb).
 
-With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebook](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Jupyter_notebooks/Fens_2017_metaBEAT.ipynb).
+With the data in place, you should be able to fully reproduce our analyses by following the steps outlined in the [Jupyter notebook](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/blob/master/Jupyter_notebooks/Fens_2017_metaBEAT.ipynb).
 
-The workflow illustrated in the notebooks assumes that the raw Illumina data is present in a directory ```raw_reads``` at the base of the repository structure and that the files are named according to the following convention: 'sampleID_marker', followed by '_R1' or '_R2' to identify the forward/reverse read file respectively. SampleID must correspond to the first column in the file ```Sample_accessions.tsv``` [here](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Sample_accessions.tsv).
+The workflow illustrated in the notebooks assumes that the raw Illumina data is present in a directory ```raw_reads``` at the base of the repository structure and that the files are named according to the following convention: 'sampleID_marker', followed by '_R1' or '_R2' to identify the forward/reverse read file respectively. SampleID must correspond to the first column in the file ```Sample_accessions.tsv``` [here](https://github.com/HullUni-bioinformatics/Griffiths_et_al_2020_Fens_eDNA/blob/master/Data/Sample_accessions.tsv).
