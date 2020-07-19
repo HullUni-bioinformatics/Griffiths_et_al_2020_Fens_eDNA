@@ -14,7 +14,7 @@ Permanently archived at:
 
 - Raw output data [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/blob/master/Data/Raw_Data)
 
-- R scripts with associated .CSV files used to analyse metaBEAT output and produce figures [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/R_scripts)
+- R scripts with associated .csv files used to analyse metaBEAT output and produce figures [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/R_scripts)
 
 - Supplementary info [(here)](https://github.com/NPGriffiths/Griffiths_et_al_2020_Fens/tree/master/Data/Supp_Info)
 
