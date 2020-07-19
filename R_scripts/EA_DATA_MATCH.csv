@@ -1,0 +1,128 @@
+SITE_N,SITE_NAME,SURVEY_METHOD,LATIN_NAME,ALL_RUNS
+3,Chapel Bridge,SEINE NETTING,Rutilus rutilus,206
+3,Chapel Bridge,SEINE NETTING,Abramis brama,52
+3,Chapel Bridge,SEINE NETTING,Gymnocephalus cerna,2
+3,Chapel Bridge,SEINE NETTING,Perca fluviatilis,30
+3,Chapel Bridge,SEINE NETTING,Alburnus alburnus,1
+3,Chapel Bridge,SEINE NETTING,Esox lucius,2
+13,Mepal,SEINE NETTING,Rutilus rutilus,120
+13,Mepal,SEINE NETTING,Perca fluviatilis,25
+13,Mepal,SEINE NETTING,Tinca tinca,1
+13,Mepal,SEINE NETTING,Esox lucius,1
+13,Mepal,SEINE NETTING,Cobitis taenia,1
+13,Mepal,SEINE NETTING,Scardinius erythrophthalmus,1
+13,Mepal,SEINE NETTING,Abramis brama,2
+22,Salters Lode,SEINE NETTING,Rutilus rutilus,4836
+22,Salters Lode,SEINE NETTING,Abramis brama,131
+22,Salters Lode,SEINE NETTING,Tinca tinca,3
+22,Salters Lode,SEINE NETTING,Perca fluviatilis,5
+22,Salters Lode,SEINE NETTING,Blicca bjoerkna,3
+22,Salters Lode,SEINE NETTING,Esox lucius,5
+22,Salters Lode,SEINE NETTING,Rhodeus amarus,2
+22,Salters Lode,SEINE NETTING,Scardinius erythrophthalmus,1
+22,Salters Lode,SEINE NETTING,Leuciscus leuciscus,1
+22,Salters Lode,SEINE NETTING,Platichthys flesus,16
+22,Salters Lode,SEINE NETTING,Gymnocephalus cerna,1
+17,Vandervells Lake,SEINE NETTING,Rutilus rutilus,77
+17,Vandervells Lake,SEINE NETTING,Perca fluviatilis,46
+17,Vandervells Lake,SEINE NETTING,Scardinius erythrophthalmus,9
+17,Vandervells Lake,SEINE NETTING,Esox lucius,1
+17,Vandervells Lake,SEINE NETTING,Pungitius pungitius,2
+17,Vandervells Lake,SEINE NETTING,Cobitis taenia,2
+17,Vandervells Lake,SEINE NETTING,Tinca tinca,5
+15,Welches,SEINE NETTING,Rutilus rutilus,16
+15,Welches,SEINE NETTING,Scardinius erythrophthalmus,5
+15,Welches,SEINE NETTING,Esox lucius,3
+15,Welches,SEINE NETTING,Perca fluviatilis,8
+15,Welches,SEINE NETTING,Gymnocephalus cerna,2
+15,Welches,SEINE NETTING,Tinca tinca,1
+15,Welches,SEINE NETTING,Alburnus alburnus,1
+18,Welney,SEINE NETTING,Esox lucius,10
+18,Welney,SEINE NETTING,Tinca tinca,6
+18,Welney,SEINE NETTING,Perca fluviatilis,405
+18,Welney,SEINE NETTING,Abramis brama,12
+18,Welney,SEINE NETTING,Rutilus rutilus,674
+18,Welney,SEINE NETTING,Scardinius erythrophthalmus,6
+18,Welney,SEINE NETTING,Blicca bjoerkna,2
+18,Welney,SEINE NETTING,Rhodeus amarus,1
+14,Badney Drove,SEINE NETTING,Rutilus rutilus,116
+14,Badney Drove,SEINE NETTING,Abramis brama,27
+14,Badney Drove,SEINE NETTING,Perca fluviatilis,60
+14,Badney Drove,SEINE NETTING,Esox lucius,5
+14,Badney Drove,SEINE NETTING,Scardinius erythrophthalmus,3
+23,Neeps Bridge,SEINE NETTING,Abramis brama,105
+23,Neeps Bridge,SEINE NETTING,Perca fluviatilis,162
+23,Neeps Bridge,SEINE NETTING,Rutilus rutilus,825
+23,Neeps Bridge,SEINE NETTING,Gymnocephalus cerna,2
+23,Neeps Bridge,SEINE NETTING,Blicca bjoerkna,46
+23,Neeps Bridge,SEINE NETTING,Tinca tinca,1
+23,Neeps Bridge,SEINE NETTING,Anguilla anguilla,1
+23,Neeps Bridge,SEINE NETTING,Esox lucius,1
+5,Charter House Farm,SEINE NETTING,Abramis brama,4
+5,Charter House Farm,SEINE NETTING,Gobio gobio,1
+5,Charter House Farm,SEINE NETTING,Perca fluviatilis,53
+5,Charter House Farm,SEINE NETTING,Rutilus rutilus,59
+5,Charter House Farm,SEINE NETTING,Scardinius erythrophthalmus,1
+5,Charter House Farm,SEINE NETTING,Gymnocephalus cerna,1
+5,Charter House Farm,SEINE NETTING,Tinca tinca,2
+21,Croft House Farm,SEINE NETTING,Rutilus rutilus,816
+21,Croft House Farm,SEINE NETTING,Perca fluviatilis,249
+21,Croft House Farm,SEINE NETTING,Abramis brama,81
+21,Croft House Farm,SEINE NETTING,Blicca bjoerkna,182
+21,Croft House Farm,SEINE NETTING,Scardinius erythrophthalmus,11
+21,Croft House Farm,SEINE NETTING,Gymnocephalus cerna,6
+21,Croft House Farm,SEINE NETTING,Tinca tinca,3
+21,Croft House Farm,SEINE NETTING,Anguilla anguilla,1
+24,Benwick,SEINE NETTING,Alburnus alburnus,6
+24,Benwick,SEINE NETTING,Rutilus rutilus,399
+24,Benwick,SEINE NETTING,Scardinius erythrophthalmus,78
+24,Benwick,SEINE NETTING,Abramis brama,10
+24,Benwick,SEINE NETTING,Blicca bjoerkna,43
+24,Benwick,SEINE NETTING,Perca fluviatilis,101
+24,Benwick,SEINE NETTING,Esox lucius,3
+24,Benwick,SEINE NETTING,Cobitis taenia,1
+24,Benwick,SEINE NETTING,Gymnocephalus cerna,3
+9,Staffurths Bridge,SEINE NETTING,Alburnus alburnus,2
+9,Staffurths Bridge,SEINE NETTING,Abramis brama,158
+9,Staffurths Bridge,SEINE NETTING,Perca fluviatilis,189
+9,Staffurths Bridge,SEINE NETTING,Esox lucius,1
+9,Staffurths Bridge,SEINE NETTING,Rutilus rutilus,565
+9,Staffurths Bridge,SEINE NETTING,Scardinius erythrophthalmus,71
+9,Staffurths Bridge,SEINE NETTING,Gymnocephalus cerna,4
+9,Staffurths Bridge,SEINE NETTING,Blicca bjoerkna,3
+9,Staffurths Bridge,SEINE NETTING,Tinca tinca,1
+2,Goosetree Corner,SEINE NETTING,Rutilus rutilus,900
+2,Goosetree Corner,SEINE NETTING,Perca fluviatilis,64
+2,Goosetree Corner,SEINE NETTING,Gymnocephalus cerna,11
+2,Goosetree Corner,SEINE NETTING,Scardinius erythrophthalmus,2
+1,Hobbs Lot Bridge,SEINE NETTING,Esox lucius,4
+1,Hobbs Lot Bridge,SEINE NETTING,Rutilus rutilus,421
+1,Hobbs Lot Bridge,SEINE NETTING,Abramis brama,1
+1,Hobbs Lot Bridge,SEINE NETTING,Perca fluviatilis,32
+1,Hobbs Lot Bridge,SEINE NETTING,Gymnocephalus cerna,4
+1,Hobbs Lot Bridge,SEINE NETTING,Scardinius erythrophthalmus,10
+1,Hobbs Lot Bridge,SEINE NETTING,Alburnus alburnus,2
+10,Holloways Bridge,SEINE NETTING,Alburnus alburnus,10
+10,Holloways Bridge,SEINE NETTING,Gobio gobio,1
+10,Holloways Bridge,SEINE NETTING,Perca fluviatilis,145
+10,Holloways Bridge,SEINE NETTING,Esox lucius,4
+10,Holloways Bridge,SEINE NETTING,Rutilus rutilus,894
+10,Holloways Bridge,SEINE NETTING,Scardinius erythrophthalmus,6
+10,Holloways Bridge,SEINE NETTING,Gymnocephalus cerna,48
+10,Holloways Bridge,SEINE NETTING,Blicca bjoerkna,20
+10,Holloways Bridge,SEINE NETTING,Tinca tinca,1
+10,Holloways Bridge,SEINE NETTING,Abramis brama,164
+8,Ashline Lock,ELECTRIC FISHING,Rutilus rutilus,34
+8,Ashline Lock,ELECTRIC FISHING,Abramis brama,3
+8,Ashline Lock,ELECTRIC FISHING,Perca fluviatilis,13
+8,Ashline Lock,ELECTRIC FISHING,Esox lucius,5
+8,Ashline Lock,ELECTRIC FISHING,Tinca tinca,2
+7,Engine Farm,ELECTRIC FISHING,Alburnus alburnus,1
+7,Engine Farm,ELECTRIC FISHING,Abramis brama,1
+7,Engine Farm,ELECTRIC FISHING,Perca fluviatilis,9
+7,Engine Farm,ELECTRIC FISHING,Esox lucius,8
+7,Engine Farm,ELECTRIC FISHING,Rutilus rutilus,64
+7,Engine Farm,ELECTRIC FISHING,Scardinius erythrophthalmus,8
+7,Engine Farm,ELECTRIC FISHING,Blicca bjoerkna,1
+7,Engine Farm,ELECTRIC FISHING,Tinca tinca,4
+7,Engine Farm,ELECTRIC FISHING,Anguilla anguilla,1
