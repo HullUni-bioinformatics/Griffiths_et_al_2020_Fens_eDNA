@@ -2,7 +2,7 @@
 Data processing workflow and supplementary info for:
 Griffiths *et al.* (2020) - **Environmental DNA metabarcoding provides enhanced detection of the European eel *Anguilla anguilla* and fish community structure in pumped river catchments**
 
-Permanently archived at:
+Permanently archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3951418.svg)](https://doi.org/10.5281/zenodo.3951418)
 
 ## Contents
 
